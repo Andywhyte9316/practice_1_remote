@@ -1,7 +1,12 @@
 body    {
-            background-color: antiquewhite;
+        background-color: antiquewhite;
+        margin: 20px;
 }
 
 h1      {
-            color: maroon;
+        color: maroon;
 }
+
+p   {
+    color: darkolivegreen;
+    font-size: 1.2em;}
