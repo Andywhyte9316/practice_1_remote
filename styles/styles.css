@@ -1,5 +1,6 @@
 body    {
-            background-color: antiquewhite;
+        background-color: antiquewhite;
+        margin: 20px;
 }
 
 h1      {
@@ -9,3 +10,9 @@ h1      {
 h2      {
             color: navy;
 }
+
+p   {
+    color: darkolivegreen;
+    font-size: 1.2em;
+}
+
